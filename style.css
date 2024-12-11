@@ -2,8 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
 
-
-
 * {
     margin: 0;
     padding: 0;
@@ -50,10 +48,39 @@ body {
     font-family: "Chivo",serif;
 }
 
+.main {
+    width: 100%;
+    padding:1rem 4rem ;
+    
+    
+}
+
+.main-content {
+    width: 100%;
+}
+
+.landing-page p{
+    color: #FFFFFF;
+    font-size: 6rem;
+    margin: 4rem;
+    font-family: 'Chivo',serif;
+    font-weight: 900;
+
+}
+
+
+.landing-image{
+    width: 100%;
+    border-radius:1.2rem;
+
+}
+
+
 .navbar-divider {
     background-color: #FFFFFF;
     width: 100%;
     height: 2px;
+
 }
 
 .personal-agency {
@@ -209,7 +236,6 @@ body {
     line-height: 20px;
     color: #928DD3;
 }
-
 
 .footer {
     height:5vh;
