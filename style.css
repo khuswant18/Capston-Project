@@ -49,3 +49,10 @@ body {
     transform:color 0.1s;
     font-family: "Chivo",serif;
 }
+
+.navbar-divider {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 2px;
+
+}
